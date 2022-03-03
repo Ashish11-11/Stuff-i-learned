@@ -9,7 +9,7 @@ public class Question8 {
 	      int a = sc.nextInt();  //rahul
 	      int b = sc.nextInt();  //ayush
 	      int c = sc.nextInt();  //ajay
-	      if(a>=0 && b>=0 && c>=0)
+	      if(a>=0 && b>=0 && c>=0)  //if they are born even😂
 	      {
 	      if(a>b)
 	      {
