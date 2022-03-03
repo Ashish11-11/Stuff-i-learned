@@ -16,7 +16,7 @@ public class Question5 {
 	      double a = sc.nextDouble();
 	      double b = sc.nextDouble();
 	      double c = sc.nextDouble();
-	      if(a!=0)
+	      if(a!=0)  //if in ax^2+bx+c=0 ,a=0 then the equation is not quadratic
 	      {
 	          double d = (b*b)-(4*a*c);
 	          if (d>0)
